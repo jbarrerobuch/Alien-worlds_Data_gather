@@ -1,7 +1,6 @@
 # Alien-worlds_Data_gather
-Set of Python Jupyter Notebooks to gather NFT data from Alien Worlds Blockchain game
-
-This tools use DaltonApi (https://pypi.org/project/daltonapi/) to get data from WAX blockchain.
+Set of Python Jupyter Notebooks to gather NFT data from Alien Worlds game (https://alienworlds.io/) hosted in WAX blockchain.
+It requires the ***Dalton-API*** library (https://pypi.org/project/daltonapi/) to get data from WAX blockchain and ***Pandas***.
 
 # Lands Extrac and transform
 This notebook gets all information regarding each Land in the game: planet, owner, mining comission, ease, luck.
