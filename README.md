@@ -8,4 +8,4 @@ So far there are just +3k lands and is not expected to grow in the near future. 
 
 # Tools extractor and transfrom
 This notebook gets all information of every tool minted in the game, burned or not. It will get every pice of information available in the blockchain for each tool: owner, minting date, burned, luck, ease, and more.<br />
-The number of tools will increase constantly, rigth now is +300k. Because of this, the amount of time and memory it will take there is a need of saving the collected data while is being colected. The script will be saving to a CSV when 50k tool are gathered and adding to this file every time it reaches that count.<br />
+The number of tools will increase constantly, rigth now is +300k. Because of this, the amount of time and memory it will take there is a need of saving the collected data while is being colected. The script will be saving to a CSV when 50k tool are gathered and adding to this file every time it reaches that count.
